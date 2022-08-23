@@ -67,6 +67,8 @@ Datasets for research, e.g. Biological data, Text data, etc.
 | [Yeoh-2002-v2](https://github.com/wangxb96/EODE/blob/master/OriginalData/Yeoh-2002-v2.mat)	|	Bone Marrow	|	248	|	2526	|	6 |
 
 ## 4. Feature Selection Datasets
+**Reference**: Li, J., Cheng, K., Wang, S., Morstatter, F., Trevino, R. P., Tang, J., & Liu, H. (2017). Feature selection: A data perspective. ACM computing surveys (CSUR), 50(6), 1-45.
+
 **Link**: https://jundongl.github.io/scikit-feature/datasets.html
 
 ### 4.1 Text Data
