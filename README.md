@@ -125,15 +125,15 @@ Datasets for research, e.g. Biological data, Text data, etc.
 **Link**: https://github.com/wangxb96/SaWDE/tree/master/OriginalData
 | Datasets | # Samples | # Features | # Classes |
 | ---- | ---- | ---- | ---- | 
-| grammatical_facial_expression01 |1,062| 301| 2|
-|SemeionHandwrittenDigit| 675| 256| 10|
-|isolet5| 1,040| 617| 26|
-|MultipleFeaturesDigit| 1,000| 649| 10|
-|HAPTDataSet| 1,200| 561| 12|
-|har |900| 561| 6|
-|UJIIndoorLoc| 900| 522| 3|
-|MadelonValid| 600| 500| 2|
-|OpticalRecognitionofHandwritten| 1,000| 64| 10|
-|ConnectionistBenchData| 208| 60| 2|
-|wdbc| 596| 30| 2|
-|LungCancer| 32| 56| 3|
+| [grammatical_facial_expression01](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/grammatical_facial_expression01.txt) |1,062| 301| 2|
+|[SemeionHandwrittenDigit](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/SemeionHandwrittenDigit.txt)| 675| 256| 10|
+|[isolet5](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/isolet5.txt)| 1,040| 617| 26|
+|[MultipleFeaturesDigit](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/MultipleFeaturesDigit.txt)| 1,000| 649| 10|
+|[HAPTDataSet](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/HAPTDataSet.txt)| 1,200| 561| 12|
+|[har](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/har.txt) |900| 561| 6|
+|[UJIIndoorLoc](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/UJIIndoorLoc.txt)| 900| 522| 3|
+|[MadelonValid](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/MadelonValid.txt)| 600| 500| 2|
+|[OpticalRecognitionofHandwritten](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/OpticalRecognitionofHandwritten.txt)| 1,000| 64| 10|
+|[ConnectionistBenchData](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/ConnectionistBenchData.txt)| 208| 60| 2|
+|[wdbc](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/wdbc.txt)| 596| 30| 2|
+|[LungCancer](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/LungCancer.txt)| 32| 56| 3|
