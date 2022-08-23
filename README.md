@@ -79,35 +79,42 @@ Datasets for research, e.g. Biological data, Text data, etc.
 ### 4.2 Face Image Data
 | Datasets | # Samples | # Features | # Classes |
 | ---- | ---- | ---- | ---- | 
-
+|	[COIL20](https://jundongl.github.io/scikit-feature/files/datasets/COIL20.mat)	|	1440	|	1024	|	20	|
+|	[ORL](https://jundongl.github.io/scikit-feature/files/datasets/ORL.mat)	|	400	|	1024	|	40	|
+|	[orlraws10P](https://jundongl.github.io/scikit-feature/files/datasets/orlraws10P.mat)	|	100	|	10304	|	10	|
+|	[pixraw10P](https://jundongl.github.io/scikit-feature/files/datasets/pixraw10.Pmat)	|	100	|	10000	|	10	|
+|	[warpAR10P](https://jundongl.github.io/scikit-feature/files/datasets/warpAR10P.mat)	|	130	|	2400	|	10	|
+|	[warpPIE10P](https://jundongl.github.io/scikit-feature/files/datasets/warpPIE10P.mat)	|	210	|	2420	|	10	|
+|	[Yale](https://jundongl.github.io/scikit-feature/files/datasets/Yale.mat)	|	165	|	1024	|	15	|
 
 ### 4.3 Hand Written Image Data
 | Datasets | # Samples | # Features | # Classes |
 | ---- | ---- | ---- | ---- | 
+| [USPS](https://jundongl.github.io/scikit-feature/files/datasets/USPS.mat)	| 9298 |	256	| 10 |
 
 ### 4.4 Biological Data
 | Datasets | # Samples | # Features | # Classes |
 | ---- | ---- | ---- | ---- | 
-|	ALLAML	|	72	|	7129	|	2	|
-|	Carcinom	|	174	|	9182	|	11	|
-|	CLL_SUB_111	|	111	|	11340	|	3	|
-|	colon	|	62	|	2000	|	2	|
-|	GLI_85	|	85	|	22283	|	2	|
-|	GLIOMA	|	50	|	4434	|	4	|
-|	leukemia	|	72	|	7070	|	2	|
-|	lung	|	203	|	3312	|	5	|
-|	lung_discrete	|	73	|	325	|	7	|
-|	lymphoma	|	96	|	4026	|	9	|
-|	nci9	|	60	|	9712	|	9	|
-|	Prostate_GE	|	102	|	5966	|	2	|
-|	SMK_CAN_187	|	187	|	19993	|	2	|
-|	TOX_171	|	171	|	5748	|	4	|
+|	[ALLAML](https://jundongl.github.io/scikit-feature/files/datasets/ALLAML.mat)	|	72	|	7129	|	2	|
+|	[Carcinom](https://jundongl.github.io/scikit-feature/files/datasets/Carcino.mat)	|	174	|	9182	|	11	|
+|	[CLL_SUB_111](https://jundongl.github.io/scikit-feature/files/datasets/CLL_SUB_111.mat)	|	111	|	11340	|	3	|
+|	[colon](https://jundongl.github.io/scikit-feature/files/datasets/colon.mat)	|	62	|	2000	|	2	|
+|	[GLI_85](https://jundongl.github.io/scikit-feature/files/datasets/GLI_85.mat)	|	85	|	22283	|	2	|
+|	[GLIOMA](https://jundongl.github.io/scikit-feature/files/datasets/GLIOMA.mat)	|	50	|	4434	|	4	|
+|	[leukemia](https://jundongl.github.io/scikit-feature/files/datasets/leukemia.mat)	|	72	|	7070	|	2	|
+|	[lung](https://jundongl.github.io/scikit-feature/files/datasets/lung.mat)	|	203	|	3312	|	5	|
+|	[lung_discrete](https://jundongl.github.io/scikit-feature/files/datasets/lung_discrete.mat)	|	73	|	325	|	7	|
+|	[lymphoma](https://jundongl.github.io/scikit-feature/files/datasets/lymphoma.mat)	|	96	|	4026	|	9	|
+|	[nci9](https://jundongl.github.io/scikit-feature/files/datasets/nci9.mat)	|	60	|	9712	|	9	|
+|	[Prostate_GE](https://jundongl.github.io/scikit-feature/files/datasets/Prostate_GE.mat)	|	102	|	5966	|	2	|
+|	[SMK_CAN_187](https://jundongl.github.io/scikit-feature/files/datasets/SMK_CAN_187.mat)	|	187	|	19993	|	2	|
+|	[TOX_171](https://jundongl.github.io/scikit-feature/files/datasets/TOX_171.mat)	|	171	|	5748	|	4	|
 
 
 ### 4.5 Other Data
 | Datasets | # Samples | # Features | # Classes |
 | ---- | ---- | ---- | ---- | 
-| arcene | 200 |	10000 |	2 |
-| gisette	| 7000	| 5000 | 2 |
-| Isolet	| 1560	| 617 |	26 |
-| madelon	| 2600	| 500	| 2 |
+| [arcene](https://jundongl.github.io/scikit-feature/files/datasets/arcene.mat) | 200 |	10000 |	2 |
+| [gisette](https://jundongl.github.io/scikit-feature/files/datasets/gisette.mat)	| 7000	| 5000 | 2 |
+| [Isolet](https://jundongl.github.io/scikit-feature/files/datasets/Isolet.mat)	| 1560	| 617 |	26 |
+| [madelon](https://jundongl.github.io/scikit-feature/files/datasets/madelon.mat)	| 2600	| 500	| 2 |
