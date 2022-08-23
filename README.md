@@ -2,7 +2,7 @@
 Datasets for research, e.g. Biological data, Text data, etc.
 
 ## 1. Microarray Datasets
-**Reference** ：Zhu, Z., Ong, Y. S., & Dash, M. (2007). Markov blanket-embedded genetic algorithm for gene selection. Pattern Recognition, 40(11), 3236-3248.
+**Reference**: Zhu, Z., Ong, Y. S., & Dash, M. (2007). Markov blanket-embedded genetic algorithm for gene selection. Pattern Recognition, 40(11), 3236-3248.
 
 **Link** : https://csse.szu.edu.cn/staff/zhuzx/Datasets.html
 
@@ -19,3 +19,8 @@ Datasets for research, e.g. Biological data, Text data, etc.
 | [Lymphoma](https://csse.szu.edu.cn/staff/zhuzx/Lymphoma.zip) | 4026 | 62 | 3 |
 | [MLL](https://csse.szu.edu.cn/staff/zhuzx/MLL.zip) | 12582 | 72 | 3 |
 | [SRBCT](https://csse.szu.edu.cn/staff/zhuzx/SRBCT.zip) | 2308 | 83 | 4 |
+
+## Network (Graph) Datasets
+**Link**: https://networkrepository.com/
+![]()
+
