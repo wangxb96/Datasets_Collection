@@ -65,3 +65,49 @@ Datasets for research, e.g. Biological data, Text data, etc.
 | [West-2001](https://github.com/wangxb96/EODE/blob/master/OriginalData/West-2001.mat)	|	Breast	|	49	|	1198	|	2	 |
 | [Yeoh-2002-v1](https://github.com/wangxb96/EODE/blob/master/OriginalData/Yeoh-2002-v1.mat)	|	Bone Marrow	|	248	|	2526	|	2 |
 | [Yeoh-2002-v2](https://github.com/wangxb96/EODE/blob/master/OriginalData/Yeoh-2002-v2.mat)	|	Bone Marrow	|	248	|	2526	|	6 |
+
+## 4. Feature Selection Datasets
+**Link**: https://jundongl.github.io/scikit-feature/datasets.html
+
+### 4.1 Text Data
+| Datasets | # Samples | # Features | # Classes |
+| ---- | ---- | ---- | ---- | 
+| [BASEHOCK](https://jundongl.github.io/scikit-feature/files/datasets/BASEHOCK.mat) | 1993 | 4862 | 2 |
+| [PCMAC](https://jundongl.github.io/scikit-feature/files/datasets/PCMAC.mat) |  1943 |	3289	| 2 |
+| [RELATHE](https://jundongl.github.io/scikit-feature/files/datasets/RELATHE.mat) | 1427 | 4322 | 2 |
+
+### 4.2 Face Image Data
+| Datasets | # Samples | # Features | # Classes |
+| ---- | ---- | ---- | ---- | 
+
+
+### 4.3 Hand Written Image Data
+| Datasets | # Samples | # Features | # Classes |
+| ---- | ---- | ---- | ---- | 
+
+### 4.4 Biological Data
+| Datasets | # Samples | # Features | # Classes |
+| ---- | ---- | ---- | ---- | 
+|	ALLAML	|	72	|	7129	|	2	|
+|	Carcinom	|	174	|	9182	|	11	|
+|	CLL_SUB_111	|	111	|	11340	|	3	|
+|	colon	|	62	|	2000	|	2	|
+|	GLI_85	|	85	|	22283	|	2	|
+|	GLIOMA	|	50	|	4434	|	4	|
+|	leukemia	|	72	|	7070	|	2	|
+|	lung	|	203	|	3312	|	5	|
+|	lung_discrete	|	73	|	325	|	7	|
+|	lymphoma	|	96	|	4026	|	9	|
+|	nci9	|	60	|	9712	|	9	|
+|	Prostate_GE	|	102	|	5966	|	2	|
+|	SMK_CAN_187	|	187	|	19993	|	2	|
+|	TOX_171	|	171	|	5748	|	4	|
+
+
+### 4.5 Other Data
+| Datasets | # Samples | # Features | # Classes |
+| ---- | ---- | ---- | ---- | 
+| arcene | 200 |	10000 |	2 |
+| gisette	| 7000	| 5000 | 2 |
+| Isolet	| 1560	| 617 |	26 |
+| madelon	| 2600	| 500	| 2 |
