@@ -118,3 +118,22 @@ Datasets for research, e.g. Biological data, Text data, etc.
 | [gisette](https://jundongl.github.io/scikit-feature/files/datasets/gisette.mat)	| 7000	| 5000 | 2 |
 | [Isolet](https://jundongl.github.io/scikit-feature/files/datasets/Isolet.mat)	| 1560	| 617 |	26 |
 | [madelon](https://jundongl.github.io/scikit-feature/files/datasets/madelon.mat)	| 2600	| 500	| 2 |
+
+### 4.6 Large Scale Feature Selection Datasets
+**Refference**: Wang, X., Wang, Y., Wong, K. C., & Li, X. (2022). A self-adaptive weighted differential evolution approach for large-scale feature selection. Knowledge-Based Systems, 235, 107633.
+
+**Link**: https://github.com/wangxb96/SaWDE/tree/master/OriginalData
+| Datasets | # Samples | # Features | # Classes |
+| ---- | ---- | ---- | ---- | 
+| grammatical_facial_expression01 |1,062| 301| 2|
+|SemeionHandwrittenDigit| 675| 256| 10|
+|isolet5| 1,040| 617| 26|
+|MultipleFeaturesDigit| 1,000| 649| 10|
+|HAPTDataSet| 1,200| 561| 12|
+|har |900| 561| 6|
+|UJIIndoorLoc| 900| 522| 3|
+|MadelonValid| 600| 500| 2|
+|OpticalRecognitionofHandwritten| 1,000| 64| 10|
+|ConnectionistBenchData| 208| 60| 2|
+|wdbc| 596| 30| 2|
+|LungCancer| 32| 56| 3|
