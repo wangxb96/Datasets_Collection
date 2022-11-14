@@ -121,6 +121,10 @@ Datasets for research, e.g. Biological data, Text data, etc.
 | [Isolet](https://jundongl.github.io/scikit-feature/files/datasets/Isolet.mat)	| 1560	| 617 |	26 |
 | [madelon](https://jundongl.github.io/scikit-feature/files/datasets/madelon.mat)	| 2600	| 500	| 2 |
 
+### 4.6 Genetic Data
+**Link**: https://github.com/wangxb96/Datasets_Collection/tree/main/Genetic_Data
+![](https://github.com/wangxb96/Datasets_Collection/blob/main/Genetic_Data/Original/genetic_data.png)
+
 ### 4.6 Large Scale Feature Selection Datasets
 **Refference**: Wang, X., Wang, Y., Wong, K. C., & Li, X. (2022). A self-adaptive weighted differential evolution approach for large-scale feature selection. Knowledge-Based Systems, 235, 107633.
 
