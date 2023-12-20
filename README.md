@@ -143,3 +143,7 @@ Datasets for research, e.g. Biological data, Text data, etc.
 |[ConnectionistBenchData](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/ConnectionistBenchData.txt)| 208| 60| 2|
 |[wdbc](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/wdbc.txt)| 596| 30| 2|
 |[LungCancer](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/LungCancer.txt)| 32| 56| 3|
+
+### 4.6 Imbalanced Bioinformatic Data
+![](https://raw.githubusercontent.com/wangxb96/Datasets_Collection/main/Imbalance_Bio.png)
+
