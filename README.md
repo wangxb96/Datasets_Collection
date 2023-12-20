@@ -125,7 +125,7 @@ Datasets for research, e.g. Biological data, Text data, etc.
 **Link**: https://github.com/wangxb96/Datasets_Collection/tree/main/Genetic_Data
 ![](https://github.com/wangxb96/Datasets_Collection/blob/main/Genetic_Data/Original/genetic_data.png)
 
-### 4.6 Large Scale Feature Selection Datasets
+### 4.7 Large Scale Feature Selection Datasets
 **Refference**: Wang, X., Wang, Y., Wong, K. C., & Li, X. (2022). A self-adaptive weighted differential evolution approach for large-scale feature selection. Knowledge-Based Systems, 235, 107633.
 
 **Link**: https://github.com/wangxb96/SaWDE/tree/master/OriginalData
@@ -144,6 +144,6 @@ Datasets for research, e.g. Biological data, Text data, etc.
 |[wdbc](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/wdbc.txt)| 596| 30| 2|
 |[LungCancer](https://github.com/wangxb96/SaWDE/blob/master/OriginalData/LungCancer.txt)| 32| 56| 3|
 
-### 4.6 Imbalanced Bioinformatic Data
+### 4.8 Imbalanced Bioinformatic Data
 ![](https://raw.githubusercontent.com/wangxb96/Datasets_Collection/main/Imbalance_Bio.png)
 
